@@ -2292,7 +2292,7 @@ Interface}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{723.35754, 286.07224}, {19, 14}}</string>
+			<string>{{723.35754, 285.81808}, {19, 14}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -4665,7 +4665,7 @@ Interface}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-02-21 21:48:26 +0000</string>
+	<string>2013-02-23 21:04:52 +0000</string>
 	<key>Modifier</key>
 	<string>msherman13</string>
 	<key>NotesVisible</key>
@@ -4751,7 +4751,7 @@ Interface}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{0, 61}, {1280, 717}}</string>
+		<string>{{0, 64}, {1280, 714}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -4765,14 +4765,14 @@ Interface}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{537.21375, 238.74046}, {218.51147, 107.25191}}</string>
+		<string>{{610.2923, 256.98859}, {145.48926, 71.029236}}</string>
 		<key>Zoom</key>
-		<real>5.2399997711181641</real>
+		<real>7.869999885559082</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>5.2399997711181641</real>
+				<real>7.869999885559082</real>
 				<real>1</real>
 			</array>
 		</array>
