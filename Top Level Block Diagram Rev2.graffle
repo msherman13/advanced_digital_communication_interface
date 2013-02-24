@@ -4665,7 +4665,7 @@ Interface}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-02-23 21:04:52 +0000</string>
+	<string>2013-02-23 21:45:58 +0000</string>
 	<key>Modifier</key>
 	<string>msherman13</string>
 	<key>NotesVisible</key>
@@ -4750,8 +4750,6 @@ Interface}</string>
 				<string>Canvas 1</string>
 			</dict>
 		</array>
-		<key>Frame</key>
-		<string>{{0, 64}, {1280, 714}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -4764,16 +4762,14 @@ Interface}</string>
 		<true/>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
-		<key>VisibleRegion</key>
-		<string>{{610.2923, 256.98859}, {145.48926, 71.029236}}</string>
 		<key>Zoom</key>
-		<real>7.869999885559082</real>
+		<real>1</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>7.869999885559082</real>
 				<real>1</real>
+				<real>7.869999885559082</real>
 			</array>
 		</array>
 	</dict>
