@@ -51,7 +51,53 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{171, 145.39296}, {204, 97.151764}}</string>
+			<string>{{171, 120.40907}, {436, 229.49512}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>1282</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Pattern</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{171.00002, 252.75244}, {204, 97.151764}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>1281</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Pattern</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{171, 146.73605}, {204, 97.151764}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1226,8 +1272,15 @@
 					<dict>
 						<key>fill</key>
 						<dict>
-							<key>Draws</key>
-							<string>NO</string>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.166948</string>
+							</dict>
 						</dict>
 						<key>shadow</key>
 						<dict>
@@ -1329,8 +1382,15 @@
 					<dict>
 						<key>fill</key>
 						<dict>
-							<key>Draws</key>
-							<string>NO</string>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.166948</string>
+							</dict>
 						</dict>
 						<key>shadow</key>
 						<dict>
@@ -1493,7 +1553,20 @@
 					<key>Shape</key>
 					<string>OrGate</string>
 					<key>Style</key>
-					<dict/>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.166948</string>
+							</dict>
+						</dict>
+					</dict>
 					<key>Text</key>
 					<dict>
 						<key>VerticalPad</key>
@@ -7603,11 +7676,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>7.62343e-05</string>
+						<string>0.0582533</string>
 						<key>g</key>
-						<string>0.951583</string>
-						<key>r</key>
 						<string>1</string>
+						<key>r</key>
+						<string>0</string>
 					</dict>
 				</dict>
 			</dict>
@@ -7726,11 +7799,11 @@
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<string>7.62343e-05</string>
+								<string>0.0582533</string>
 								<key>g</key>
-								<string>0.951583</string>
-								<key>r</key>
 								<string>1</string>
+								<key>r</key>
+								<string>0</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -7770,11 +7843,11 @@
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<string>7.62343e-05</string>
+								<string>0.0582533</string>
 								<key>g</key>
-								<string>0.951583</string>
-								<key>r</key>
 								<string>1</string>
+								<key>r</key>
+								<string>0</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -7811,11 +7884,11 @@
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<string>7.62343e-05</string>
+								<string>0.0582533</string>
 								<key>g</key>
-								<string>0.951583</string>
-								<key>r</key>
 								<string>1</string>
+								<key>r</key>
+								<string>0</string>
 							</dict>
 						</dict>
 					</dict>
@@ -7846,7 +7919,20 @@
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
-					<dict/>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.166948</string>
+							</dict>
+						</dict>
+					</dict>
 					<key>Text</key>
 					<dict>
 						<key>VerticalPad</key>
@@ -7886,6 +7972,15 @@
 							<dict>
 								<key>fill</key>
 								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<string>0</string>
+										<key>g</key>
+										<string>1</string>
+										<key>r</key>
+										<string>0.166948</string>
+									</dict>
 									<key>GradientCenter</key>
 									<string>{0, -0.470588}</string>
 								</dict>
@@ -8144,11 +8239,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>7.62343e-05</string>
+						<string>0.0582533</string>
 						<key>g</key>
-						<string>0.951583</string>
-						<key>r</key>
 						<string>1</string>
+						<key>r</key>
+						<string>0</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -8198,6 +8293,18 @@
 					<string>VerticalTriangle</string>
 					<key>Style</key>
 					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0.0484928</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>7.60555e-05</string>
+							</dict>
+						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -8230,6 +8337,18 @@
 					<string>VerticalTriangle</string>
 					<key>Style</key>
 					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0.0484928</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>7.60555e-05</string>
+							</dict>
+						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -8258,7 +8377,20 @@
 					<key>Shape</key>
 					<string>Trapazoid</string>
 					<key>Style</key>
-					<dict/>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0.0484928</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>7.60555e-05</string>
+							</dict>
+						</dict>
+					</dict>
 					<key>Text</key>
 					<dict>
 						<key>VerticalPad</key>
@@ -8328,7 +8460,20 @@
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
-					<dict/>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<string>0</string>
+								<key>g</key>
+								<string>1</string>
+								<key>r</key>
+								<string>0.166948</string>
+							</dict>
+						</dict>
+					</dict>
 					<key>Text</key>
 					<dict>
 						<key>VerticalPad</key>
@@ -8368,6 +8513,15 @@
 							<dict>
 								<key>fill</key>
 								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<string>0</string>
+										<key>g</key>
+										<string>1</string>
+										<key>r</key>
+										<string>0.166948</string>
+									</dict>
 									<key>GradientCenter</key>
 									<string>{0, -0.470588}</string>
 								</dict>
@@ -8515,6 +8669,18 @@
 			<string>Rectangle</string>
 			<key>Style</key>
 			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.0484928</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>7.60555e-05</string>
+					</dict>
+				</dict>
 				<key>shadow</key>
 				<dict>
 					<key>Beneath</key>
@@ -9092,7 +9258,7 @@ FILE-SIZE}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-03-04 23:10:45 +0000</string>
+	<string>2013-03-05 19:20:37 +0000</string>
 	<key>Modifier</key>
 	<string>msherman13</string>
 	<key>NotesVisible</key>
